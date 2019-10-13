@@ -1,5 +1,7 @@
 #original code from
 #https://github.com/keras-team/keras/blob/master/examples/neural_style_transfer.py
+#https://github.com/hunter-heidenreich/ML-Open-Source-Implementations
+
 '''
 # References
     - [A Neural Algorithm of Artistic Style](http://arxiv.org/abs/1508.06576)
